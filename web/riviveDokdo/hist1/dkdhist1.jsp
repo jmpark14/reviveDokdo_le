@@ -48,7 +48,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-3 text-center">
+                    <div class="col-md-3 text-center" >
                         <div class="zoom w-auto h-auto">
                             <a href="viewHist1_1.jsp"><img class="scale w-100 h-100" src="https://drive.google.com/uc?export=view&id=1BAlbm2Sfm3_qoVXSVMX8qqmUUafX5UaP"></a>
                         </div>
