@@ -127,5 +127,6 @@
             location.href = '../intro/intro.jsp';
         });
     });
+    // git에서 고쳐봄
 </script>
 </html>
