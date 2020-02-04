@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="json-simple-1.1.1">
+    <CLASSES>
+      <root url="jar:///Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/json-simple-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

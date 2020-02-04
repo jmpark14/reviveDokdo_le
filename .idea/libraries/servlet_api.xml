@@ -1,9 +1,6 @@
 <component name="libraryTable">
   <library name="servlet-api">
-    <CLASSES>
-      <root url="jar://C:/Java/zulu8u222/jre/lib/ext/servlet-api.jar!/" />
-      <root url="jar://C:/Java/zulu8u222/jre/lib/ext/annotations-api.jar!/" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC />
     <SOURCES />
   </library>

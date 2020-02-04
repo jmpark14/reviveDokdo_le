@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="annotations-api">
+    <CLASSES>
+      <root url="jar:///Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/annotations-api.jar!/" />
+      <root url="jar:///Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
